@@ -1,5 +1,7 @@
 # Stress Detection with Smartwatches
 
+[**Final Paper**](https://drive.google.com/file/d/1dc5VqZodXUlEKjaarF4qZAdfQVxDm_KZ/view)
+
 In my senior year of high school, I was able to take AP Research and conduct a yearlong study on a topic of my choice.  My preliminary research on the growing wearable technology market and its increasing applications to healthcare led me to focus on how smartwatch heart rate variability data can be used to detect stress in high school students.  
 
 Through this project, I developed Python code to extract, preprocess, store, and analyze participant HRV data using open source modules including hrv-analysis, Pandas, Matplotlib, Numpy, SciPy, and scikit-learn.  I also created a logistic regression (LR) model to assess how effectively Apple Watch HRV measurements could be used to detect stressed and resting states in participants
