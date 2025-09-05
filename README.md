@@ -10,8 +10,6 @@ Through this project, I developed Python code to extract, preprocess, store, and
 
 Through this project, I wanted to build upon my programming skills, understand how to work with real world data, and explore basic machine learning concepts.  My interest in research at the interesection of biology, psychology, and computer science also shaped my research inquiry.
 
----
-
 [**Final Paper**](https://drive.google.com/file/d/1dc5VqZodXUlEKjaarF4qZAdfQVxDm_KZ/view)
 
 ---
